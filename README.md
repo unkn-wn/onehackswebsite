@@ -1,8 +1,7 @@
-# Hook Landing Page Theme
+# website
 
-This landing page theme is built on [shorthand css framework](https://github.com/shorthandcss/shorthand)
+website using theme made by Jiten Bansal
 
-![preview](/preview.jpg)
 
 ## Credit
 
