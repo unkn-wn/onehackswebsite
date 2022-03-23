@@ -38,4 +38,10 @@ $(document).ready(function () {
             }
         }, ]
     });
+
+    // open new window
+    goTo = function(web){
+        window.open(web, '_blank');
+    }
+
 });
