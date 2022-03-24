@@ -10,3 +10,15 @@
     position: fixed;
     z-index: 10000;
 }
+
+.gradient-underline {
+    content: "";
+    position: relative;
+    width: 100%;
+    top: 100%;
+    left: 0;
+    height: 5px;
+    border-radius: 2px;
+    background: linear-gradient(270deg, #fec05e, #ff8d95, #b084ba, #597c9e);
+    border: 0;
+}
