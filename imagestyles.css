@@ -28,3 +28,9 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.equal-height-column {
+    float: left;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
+}
