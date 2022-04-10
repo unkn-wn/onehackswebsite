@@ -23,6 +23,7 @@
     border: 0;
 }
 
+
 .gradient-text {
     background: -webkit-linear-gradient(90deg, #fec05e, #ff8d95, #b084ba, #597c9e);
     -webkit-background-clip: text;
@@ -42,3 +43,7 @@
     background-color: #6596D0;
 }
 
+
+.center {
+    text-align: center;
+}
