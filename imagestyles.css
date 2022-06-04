@@ -54,3 +54,7 @@
     margin-right: auto;
     width: 75%;
   }
+
+.cover {
+    object-fit: cover;
+}
